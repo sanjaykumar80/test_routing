@@ -1,0 +1,15 @@
+.card1{
+    border: 2px solid blue;
+}
+
+.card2{
+    border: 2px solid orangered;
+}
+
+.card3{
+    border: 2px solid green;
+}
+
+.card4{
+    border:  2px solid rgb(218, 11, 90);
+}
